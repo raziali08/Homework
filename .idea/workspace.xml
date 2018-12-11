@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dcfecf18-4288-4fab-8b50-fa15b60ea8cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorkWeekDaysNov2018" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javabasic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Automobile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Bag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Bicyle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Bird.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Candy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Chips.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Chocolate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Cigarette.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/City.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Cloud.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Coffee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Cologne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Country.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Desert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Dogs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Drug.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Fitness.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Flower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Fruit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Furniture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Glasses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Hat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Jacket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Jewlery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Language.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Laptop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Lock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Meats.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/MobilePhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Movie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Pen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Planet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Plant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Property.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Refrigirator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/School.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Shoe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/SoftDrink.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Sport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Star.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/State.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Tape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Train.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Tv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Vegetables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Watch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Weather.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Main/Bicycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Main/Sel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/constructors/Team.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/constructors/TeamTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javabasic/test/TestAll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Aircraft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Automobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Bicyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Candy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Chips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Chocolate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Cigarette.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Cloud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Cologne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Desert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Dogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Drug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Fitness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Flower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Glasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Hat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Jacket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Jewlery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Meats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Pen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Property.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Refrigirator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Shoe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/SoftDrink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Sport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Tape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Tv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Vegetables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Watch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Weather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/gittest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Sel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructors/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructors/TeamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/TestAll.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-505857062">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="68" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="68" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="17" />
+          <entry key="java" value="3066" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3066" />
+          <entry key="PLAIN_TEXT" value="17" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/constructors/Team.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+              <folding>
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/constructors/TeamTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Basic/gittest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main/Bicycle.java" />
+        <option value="$PROJECT_DIR$/src/Main/Sel.java" />
+        <option value="$PROJECT_DIR$/src/Basic/Vegetables.java" />
+        <option value="$PROJECT_DIR$/src/Basic/Fruit.java" />
+        <option value="$PROJECT_DIR$/src/Basic/Plane.java" />
+        <option value="$PROJECT_DIR$/src/Basic/Bag.java" />
+        <option value="$PROJECT_DIR$/src/Basic/Bird.java" />
+        <option value="$PROJECT_DIR$/src/Basic/Candy.java" />
+        <option value="$PROJECT_DIR$/src/Basic/Book.java" />
+        <option value="$PROJECT_DIR$/src/Basic/Bicyle.java" />
+        <option value="$PROJECT_DIR$/src/Basic/Chips.java" />
+        <option value="$PROJECT_DIR$/src/Basic/Automobile.java" />
+        <option value="$PROJECT_DIR$/src/Basic/Aircraft.java" />
+        <option value="$PROJECT_DIR$/src/constructors/Team.java" />
+        <option value="$PROJECT_DIR$/src/constructors/TeamTest.java" />
+        <option value="$PROJECT_DIR$/src/Basic/gittest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="852" />
+    <option name="y" value="120" />
+    <option name="width" value="1074" />
+    <option name="height" value="807" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544492142433" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Basic" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TeamTest">
+    <configuration name="Sel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Sel" />
+      <module name="javabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructors.TeamTest" />
+      <module name="javabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="constructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Sel" />
+      <item itemvalue="Application.TeamTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TeamTest" />
+        <item itemvalue="Application.Sel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcfecf18-4288-4fab-8b50-fa15b60ea8cc" name="Default Changelist" comment="" />
+      <created>1543613550994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543613550994</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15303643" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2366548" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3291815" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32740214" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Basic/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Planet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Star.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/MobilePhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Plant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Furniture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Shoe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Hat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Jewlery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Tv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/SoftDrink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Laptop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Language.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Cigarette.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Drug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/School.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Sport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Weather.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Glasses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Hair.java" />
+    <entry file="file://$PROJECT_DIR$/src/Basic/Tape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Desert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Chocolate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Watch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Cologne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Property.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Flower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Jacket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Train.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Cloud.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Pen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Fitness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Refrigirator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Bag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Candy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Bicyle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Chips.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Automobile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/Aircraft.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/TestAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/constructors/Team.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/constructors/TeamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic/gittest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javabasic</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
