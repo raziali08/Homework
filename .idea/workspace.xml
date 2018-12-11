@@ -2,129 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfecf18-4288-4fab-8b50-fa15b60ea8cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWorkWeekDaysNov2018" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javabasic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Automobile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Bag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Bicyle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Bird.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Candy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Chips.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Chocolate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Cigarette.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/City.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Cloud.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Coffee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Cologne.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Color.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Country.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Desert.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Dogs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Drug.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Fitness.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Flower.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Fruit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Furniture.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Glasses.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Hat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Human.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Jacket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Jewlery.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Language.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Laptop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Lock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Meats.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/MobilePhone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Movie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Pen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Planet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Plant.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Property.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Refrigirator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/School.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Shoe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/SoftDrink.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Sport.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Star.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/State.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Tape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Train.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Tv.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Vegetables.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Watch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Basic/Weather.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Main/Bicycle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/Main/Sel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/constructors/Team.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/constructors/TeamTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javabasic/test/TestAll.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Aircraft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Automobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Bicyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Candy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Chips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Chocolate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Cigarette.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Cloud.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Cologne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Desert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Dogs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Drug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Fitness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Flower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Glasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Hat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Jacket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Jewlery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Language.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Lock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Meats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/MobilePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Pen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Plant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Property.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Refrigirator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Shoe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/SoftDrink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Sport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Tape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Train.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Tv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Vegetables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Watch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Weather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/gittest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Sel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructors/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructors/TeamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/TestAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/gittest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/gittest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -138,9 +16,10 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.19" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -156,12 +35,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="17" />
-          <entry key="java" value="3066" />
+          <entry key="java" value="3084" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3066" />
+          <entry key="JAVA" value="3084" />
           <entry key="PLAIN_TEXT" value="17" />
         </counts>
       </usages-collector>
@@ -172,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/constructors/Team.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="901">
+            <state relative-caret-position="935">
               <caret line="57" selection-start-line="57" selection-end-line="57" />
               <folding>
                 <element signature="e#156#157#0" expanded="true" />
@@ -194,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Basic/gittest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="102">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -246,6 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,11 +138,10 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544492142433" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544492346025" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -338,8 +217,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15303643" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15546559" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -699,7 +579,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/constructors/Team.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
+        <state relative-caret-position="935">
           <caret line="57" selection-start-line="57" selection-end-line="57" />
           <folding>
             <element signature="e#156#157#0" expanded="true" />
@@ -717,8 +597,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Basic/gittest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="102">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
         </state>
       </provider>
     </entry>
